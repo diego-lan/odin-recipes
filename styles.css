@@ -1,0 +1,42 @@
+body {
+    background-color: #ffff89;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 
+    'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+/* Index general aspects */
+
+#index-header {
+    text-align: center;
+    color: #ddaa90;
+}
+
+#recipes {
+    list-style-type: none;
+}
+
+#recipes a {
+    text-decoration: none;
+    color: rgba(41, 41, 221, 0.5);
+}
+
+
+.recipe-name-title {
+    color: #D55210;
+}
+
+.back {
+    text-decoration: none;
+    color: #D5A510;
+}
+
+
+.lasagna-img, .homemade-bread {
+    width: 400px;
+    height: auto;
+}
+
+h3, p, ul, ol {
+    color: #D57E10;
+}
+
